@@ -22,6 +22,15 @@
 - 消息查询与已读
 - 自动化测试
 
+## 1.1 关联仓库
+
+本项目与前端仓库配套使用：
+
+- 当前后端仓库（CampusGoPY / CampusGo-Backend）：`https://github.com/EugeneXXXie/CampusGo-Backend`
+- 对应前端仓库（CampusGo）：`https://github.com/EugeneXXXie/CampusGo`
+
+如果你需要本地完整联调，请同时拉取前后端两个仓库。
+
 ---
 
 ## 2. 技术栈
